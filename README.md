@@ -1,1 +1,1 @@
-# -Note-Taking-App
+# Exploring IMDB Data with SQL
